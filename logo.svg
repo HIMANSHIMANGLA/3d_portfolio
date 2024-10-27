@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" enable-background="new 0 0 256 256" viewBox="0 0 256 256" id="h">
+  <linearGradient id="a" x1="83.1" x2="172.9" y1="128" y2="128" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#c18ffd"></stop>
+    <stop offset="1" stop-color="#6088fa"></stop>
+  </linearGradient>
+  <polygon fill="url(#a)" points="144.4 49.1 144.4 117.6 111.9 117.6 111.9 49.1 83.1 49.1 83.1 206.9 111.9 206.9 111.9 139.6 144.4 139.6 144.4 206.9 172.9 206.9 172.9 49.1"></polygon>
+</svg>
